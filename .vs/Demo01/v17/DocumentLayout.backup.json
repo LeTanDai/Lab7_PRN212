@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Demo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|c:\\users\\admin\\source\\repos\\demo01\\wrappanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|solutionrelative:wrappanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6443579-1BB7-4102-918C-FFE1E4E6A17B}|DemoCanvasPanel\\DemoCanvasPanel.csproj|c:\\users\\admin\\source\\repos\\demo01\\democanvaspanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6443579-1BB7-4102-918C-FFE1E4E6A17B}|DemoCanvasPanel\\DemoCanvasPanel.csproj|solutionrelative:democanvaspanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|c:\\users\\admin\\source\\repos\\demo01\\wrappanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|solutionrelative:wrappanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|c:\\users\\admin\\source\\repos\\demo01\\wrappanel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC14A55-0FE7-4661-8E55-D849059B583E}|WrapPanel\\WrapPanel.csproj|solutionrelative:wrappanel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\App.xaml",
+              "RelativeDocumentMoniker": "WrapPanel\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\App.xaml",
+              "RelativeToolTip": "WrapPanel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T04:28:08.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Demo01\\DemoCanvasPanel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoCanvasPanel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Demo01\\DemoCanvasPanel\\MainWindow.xaml",
+              "RelativeToolTip": "DemoCanvasPanel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T04:27:01.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WrapPanel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\MainWindow.xaml",
+              "RelativeToolTip": "WrapPanel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T04:04:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WrapPanel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Demo01\\WrapPanel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WrapPanel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:04:50.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
